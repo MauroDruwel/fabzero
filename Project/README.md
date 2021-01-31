@@ -2,7 +2,7 @@
 sort: 12
 ---
 
-# Voorbeeld 
+# Project
 
 
 {% include list.liquid all=true %}
