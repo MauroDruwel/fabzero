@@ -1,17 +1,7 @@
-# FabZero Traject Mauro Druwel
-[![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo_fabzero-14.svg)][fabzero]
+Hi Makers! Mijn naam is **Mauro Druwel**. Op deze GitHubpagina houd ik de lessenreeks FabZero IT voor Makers bij. Als eerste maak ik een reflectie bij de gevolgde online sessies. Daarnaast geef ik een overzicht van de wekelijkse opdrachten bij de verschillende modules en als laatste beschrijf ik de ontwikkeling en progessie van mijn eindproject.
+Enjoy!
+Met dank aan Ingegno.
 
-Zie de site op [ingegno.github.io/fabzero-student-template](https://ingegno.github.io/fabzero-student-template/).
-
-Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme).
-
-<img class="shadow-box" width="50%" alt="jekyll-rtd-theme" src="https://user-images.githubusercontent.com/68011645/89026666-ad3a8680-d35b-11ea-9f4b-d3fe26ae12ed.png">
-
-## Who am I?
-
-???
-
-## The license
-The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
-
-[fabzero]: https://ingegnomakerspace.github.io/inclusievekets/deelnemers
+Symbool Ingegno.
+License
+Template based on jekyll-rtd-theme. The theme is available as open source under the terms of the MIT License. The content is Creative Commons, non-commercial.
