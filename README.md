@@ -4,5 +4,5 @@ Enjoy!
 Met dank aan Ingegno.
 
 Symbool Ingegno.
-License
+## License
 Template based on jekyll-rtd-theme. The theme is available as open source under the terms of the MIT License. The content is Creative Commons, non-commercial.
