@@ -9,4 +9,5 @@ _Met dank aan [Ingegno](https://ingegno.be/)._
 [![logo2](https://ingegno.be/img/logo_website_ingegno.png)](https://ingegno.be/)
 ## License
 _Template based on jekyll-rtd-theme. The theme is available as open source under the terms of the MIT License. The content is Creative Commons, non-commercial._
+
 [fabzero]: https://ingegnomakerspace.github.io/inclusievekets/deelnemers
